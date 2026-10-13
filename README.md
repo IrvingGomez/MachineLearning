@@ -63,8 +63,3 @@ The notebooks are numbered in the order of the course. A notebook that needs dat
 ## Requirements
 
 Python 3.11 with `numpy`, `scipy`, `pandas`, `matplotlib`, `scikit-learn`, `statsmodels`, `ipywidgets` and `pygam`.
-
----
-**License**: All the codes are under the [GNU GPL v3](https://www.gnu.org/licenses/gpl.html) license or any posterior version.
-
-:copyright: (14-03-2022) Irving Gómez Méndez.
